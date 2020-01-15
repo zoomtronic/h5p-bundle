@@ -23,7 +23,7 @@
         "guzzlehttp/guzzle": "^6.5",
         "h5p/h5p-core": "^1.24",
         "h5p/h5p-editor": "^1.24",
-        "symfony/framework-bundle": "~4.0",
+        "symfony/framework-bundle": "4.4.*",
         "symfony/serializer": "4.4.*",
         "twig/extra-bundle": "^3.0"
     },
